@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>&nbsp 
 </p>
 
 # TODO
@@ -27,7 +29,7 @@
   <img src="https://img.shields.io/badge/HyperledgerFabric-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 </p>
 
 #
