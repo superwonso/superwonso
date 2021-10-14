@@ -34,7 +34,7 @@
 
 #
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021)](https://github.com/superwonso)</div>
+[![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021&langs_count=3)](https://github.com/superwonso)</div>
 
 #
 
