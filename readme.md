@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>&nbsp
 </p>
 
 # Used Once+
@@ -32,6 +30,9 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 </p>
 
+#
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 #
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021&langs_count=3)](https://github.com/superwonso)</div>
