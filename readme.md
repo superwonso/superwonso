@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>&nbsp
 
 # 
-[![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice&langs_count=3)](https://github.com/superwonso)</div>
+[![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice,microwave-engineering&langs_count=3)](https://github.com/superwonso)</div>
 
 #
 
