@@ -11,20 +11,7 @@
   <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=ZeroMQ&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
-</p>
-
-# Used Once+
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
 # TODO
@@ -33,10 +20,15 @@
   <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/></a>&nbsp 
 </p>
 
-# Env
-<p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>&nbsp
+# Awards
+Silver Award in X-Corps+ Festival (Chairman of National Research Foundation), 2022
+
+Silver Award in HCS Group for Practical Problem Solving Festival (Leader of HCS Group for Pratical Problem Solving), 2022
+
+# Papers
+📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., Jour. of KoCon.a, (2022) : 411-412
+
+📖[Design of a Communication Structure in Windows Environment for Implementing a Data Replicator](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11196362), __Cha__, Choi et al., ICCC 2022 (KoCon.a), Republic of Korea, Jeju, (2022) : 475-476
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
