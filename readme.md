@@ -26,9 +26,24 @@ Silver Award in X-Corps+ Festival (Chairman of National Research Foundation), 20
 Silver Award in HCS Group for Practical Problem Solving Festival (Leader of HCS Group for Pratical Problem Solving), 2022
 
 # Papers
-📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., Jour. of KoCon.a, (2022) : 411-412
+
+2022
+
+📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., 한국콘텐츠학회 2022 종합학술대회, (2022) : 411-412
 
 📖[Design of a Communication Structure in Windows Environment for Implementing a Data Replicator](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11196362), __Cha__, Choi et al., ICCC 2022 (KoCon.a), Republic of Korea, Jeju, (2022) : 475-476
+
+2023
+
+-----To Be Publish-----
+
+📖저전력을 위한 ARM 기반 서버 클러스터 설계, Lee, Kim, __Cha__, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023) :
+
+📖데이터 복구 웹 서비스를 위한 리포트 생성기 설계 및 구현, Lim, Jung, __Cha__ et al., 한국콘텐츠학회 2023 종합학술대회, (2023) : 
+
+📖SaaS 환경에서의 블록체인 기반 로그 관리 시스템 설계, __Cha__, Lee, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023) :
+
+📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha__, Choi, Choi, et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, (2023) : 
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
