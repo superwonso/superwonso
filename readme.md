@@ -43,7 +43,7 @@ Silver Award in HCS Group for Practical Problem Solving Festival (Leader of HCS 
 
 📖SaaS 환경에서의 블록체인 기반 로그 관리 시스템 설계, __Cha__, Lee, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023) :
 
-📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha__, Choi, Choi, et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, (2023) : 
+📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha__, Choi et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, (2023) : 
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
