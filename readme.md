@@ -37,15 +37,15 @@ Excellence Prize in 한국콘텐츠학회 2023 종합학술대회 (Chairman of K
 
 2023
 
-📖저전력을 위한 ARM 기반 서버 클러스터 설계, Lee, Kim, __Cha__, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023) :
+📖저전력을 위한 ARM 기반 서버 클러스터 설계, Lee, Kim, __Cha__, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023)
 
-📖데이터 복구 웹 서비스를 위한 리포트 생성기 설계 및 구현, Lim, Jung, __Cha__ et al., 한국콘텐츠학회 2023 종합학술대회, (2023) : 
+📖데이터 복구 웹 서비스를 위한 리포트 생성기 설계 및 구현, Lim, Jung, __Cha__ et al., 한국콘텐츠학회 2023 종합학술대회, (2023)
 
-📖SaaS 환경에서의 블록체인 기반 로그 관리 시스템 설계, __Cha<sup>o__, Lee, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023) :
+📖SaaS 환경에서의 블록체인 기반 로그 관리 시스템 설계, __Cha<sup>o__, Lee, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023)
 
-📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha<sup>o__, Choi et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, (2023) : 
+📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha<sup>o__, Choi et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, Republic of Korea, Jeju, (2023) 
 
-📖GPU 환경에서 지역성을 고려한 효율적인 그래프 분할 기법, Lee, Song, Bok, ..., __Cha<sup>o__, Choi, Yoo, 한국정보과학회 Korean Database Conference (KDBC) 2023
+📖GPU 환경에서 지역성을 고려한 효율적인 그래프 분할 기법, Lee, Song, Bok, ..., __Cha<sup>o__, Choi, Yoo, 한국정보과학회 Korean Database Conference (KDBC) 2023, Republic of Korea, Busan, (2023)
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
