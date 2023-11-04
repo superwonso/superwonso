@@ -45,6 +45,8 @@ Excellence Prize in 한국콘텐츠학회 2023 종합학술대회 (Chairman of K
 
 📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha<sup>o__, Choi et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, (2023) : 
 
+📖GPU 환경에서 지역성을 고려한 효율적인 그래프 분할 기법, Lee, Song, Bok, ..., __Cha<sup>o__, Choi, Yoo, 한국정보과학회 Korean Database Conference (KDBC) 2023
+
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice,microwave-engineering&langs_count=3)](https://github.com/superwonso)</div>
