@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Cuda-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=ZeroMQ&logoColor=white"/></a>&nbsp
   <br>
@@ -22,13 +24,15 @@
 </p>
 
 # Awards
-Silver Award in X-Corps+ Festival (Chairman of National Research Foundation), 2022
-
 Silver Award in HCS Group for Practical Problem Solving Festival (Leader of HCS Group for Pratical Problem Solving), 2022
 
-Excellence Prize in 한국콘텐츠학회 2023 종합학술대회 (Chairman of Korea Contents Association), 2023
-# Papers
+Silver Award in X-Corps+ Festival (Chairman of National Research Foundation), 2022
 
+Excellence Prize in 한국콘텐츠학회 2023 종합학술대회 (Chairman of Korea Contents Association), 2023
+
+Gold Award in HCS Group for Practical Problem Solving Festival (President of Chungbuk National University), 2022
+
+# Papers
 2022
 
 📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., 한국콘텐츠학회 2022 종합학술대회, (2022) : 411-412
