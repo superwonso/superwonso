@@ -30,7 +30,7 @@ Silver Award in X-Corps+ Festival (Chairman of National Research Foundation), 20
 
 Excellence Prize in 한국콘텐츠학회 2023 종합학술대회 (Chairman of Korea Contents Association), 2023
 
-Gold Award in HCS Group for Practical Problem Solving Festival (President of Chungbuk National University), 2022
+Gold Award in HCS Group for Practical Problem Solving Festival (President of Chungbuk National University), 2023
 
 # Papers
 2022
@@ -50,6 +50,10 @@ Gold Award in HCS Group for Practical Problem Solving Festival (President of Chu
 📖윈도우 환경에서의 고가용성 유지를 위한 데이터 복제기 설계, __Cha<sup>o__, Choi et al., 한국정보과학회 2023 한국컴퓨터종합학술대회, Republic of Korea, Jeju, (2023) 
 
 📖GPU 환경에서 지역성을 고려한 효율적인 그래프 분할 기법, Lee, Song, Bok, ..., __Cha<sup>o__, Choi, Yoo, 한국정보과학회 Korean Database Conference (KDBC) 2023, Republic of Korea, Busan, (2023)
+
+📖Design of a DRaaS Controller in Heterogeneous Cloud Environments, Kim, __Cha__ et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
+
+📖GPU Accelerated Scheduling for Efficient Dynamic Graph Processing, Choi, Song, Jeon, __Cha__, Lee, Lim, Bok, Yoo, ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
