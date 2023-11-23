@@ -51,9 +51,15 @@ Gold Award in HCS Group for Practical Problem Solving Festival (President of Chu
 
 📖GPU 환경에서 지역성을 고려한 효율적인 그래프 분할 기법, Lee, Song, Bok, ..., __Cha<sup>o__, Choi, Yoo, 한국정보과학회 Korean Database Conference (KDBC) 2023, Republic of Korea, Busan, (2023)
 
+📖Name Disambiguation of Multilingual Academic Documents Based on Graph Convolutional Network, Song, Kim, __Cha__ et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
+
 📖Design of a DRaaS Controller in Heterogeneous Cloud Environments, Kim, __Cha__ et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
 
 📖GPU Accelerated Scheduling for Efficient Dynamic Graph Processing, Choi, Song, Jeon, __Cha__, Lee, Lim, Bok, Yoo, ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
+
+📖An Effective Abnormal Behavior Detection Method, Chrostopher, Lee, ..., __Cha__, ..., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
+
+📖Design of a Real-time Data Replicator for DRaaS, __Cha<sup>o__, Kim, Oh et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso)](https://github.com/superwonso) 
