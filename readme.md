@@ -35,13 +35,13 @@ Gold Award in HCS Group for Practical Problem Solving Festival (President of Chu
 Excellence Prize in 창의혁신 캡스톤디자인 경진대회 of The Korean Society for Industry & Academy Collaboration (President of KOBIA), 2023 [2]
 
 # Papers
-2022
+* 2022
 
 📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., 한국콘텐츠학회 2022 종합학술대회, (2022) : 411-412
 
 📖[Design of a Communication Structure in Windows Environment for Implementing a Data Replicator](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11196362), __Cha<sup>o__, Choi et al., ICCC 2022 (KoCon.a), Republic of Korea, Jeju, (2022) : 475-476
 
-2023
+* 2023
 
 📖저전력을 위한 ARM 기반 서버 클러스터 설계, Lee, Kim, __Cha__, Yoo, 한국콘텐츠학회 2023 종합학술대회, (2023)
 
@@ -63,6 +63,7 @@ Excellence Prize in 창의혁신 캡스톤디자인 경진대회 of The Korean S
 
 📖Design of a Real-time Data Replicator for DRaaS, __Cha<sup>o__, Kim, Oh et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
 
+\* __Presentator<sup>o__ 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso&count_private=true)](https://github.com/superwonso)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice,microwave-engineering&langs_count=3)](https://github.com/superwonso)</div>
