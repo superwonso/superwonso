@@ -66,7 +66,7 @@ Excellence Prize in 창의혁신 캡스톤디자인 경진대회 of The Korean S
 \* __Presentator<sup>o__ 
 #
 [![github stats](https://github-readme-stats.vercel.app/api?username=superwonso&count_private=true)](https://github.com/superwonso)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice,microwave-engineering&langs_count=3)](https://github.com/superwonso)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superwonso&hide=shell,HTML&exclude_repo=Clang,osp_2021,miniFilter_scanner,nodejs_practice,microwave-engineering,Report_Generator&langs_count=3)](https://github.com/superwonso)</div>
 
 #
 
