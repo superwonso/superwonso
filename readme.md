@@ -55,7 +55,7 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 
 📖클라우드 환경에서 재해 복구 시스템을 위한 리소스 정보 최신화 기법, Jeon, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
 
-📖동적 그래프에서 지속 가능한 서브 그래프 매칭 방법, __Cha__ , Song et al., 한국콘텐츠학회 2024 종합학술대회, (2024) [3]
+📖동적 그래프에서 지속 가능한 서브 그래프 매칭 방법, __Cha__, Song et al., 한국콘텐츠학회 2024 종합학술대회, (2024) [3]
 
 📖On Premise Operating Environment for an Intelligent Expert Search System, Christopher, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
 
