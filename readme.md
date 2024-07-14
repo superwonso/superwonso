@@ -34,12 +34,38 @@ Gold Award in HCS Group for Practical Problem Solving Festival (President of Chu
 
 Excellence Prize in 창의혁신 캡스톤디자인 경진대회 of The Korean Society for Industry & Academy Collaboration (President of KOBIA), 2023 [2]
 
+Excellence Paper Prize in 한국콘텐츠학회 2024 종합학술대회 (Chairman of Korea Contents Association), 2024 [3]
+
+Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술대회 (Chairman of Korean Institute of Information Scientists and Engineers, KIISE), 2024 [4]
+
 # Papers
-* 2022
+* 2024
+  
+📖안전 약자를 위한 GPS 기반의 이동패턴 분석을 통한 이상 감지, Kim, Seong, ..., __Cha__, ..., 한국콘텐츠학회 2024 종합학술대회, (2024) 
 
-📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., 한국콘텐츠학회 2022 종합학술대회, (2022) : 411-412
+📖여행 일정 추천 서비스 설계, Shin, Choi, __Cha__, Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024) 
 
-📖[Design of a Communication Structure in Windows Environment for Implementing a Data Replicator](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11196362), __Cha<sup>o__, Choi et al., ICCC 2022 (KoCon.a), Republic of Korea, Jeju, (2022) : 475-476
+📖Author Name Disambiguation Method Based on TensorFlow and BERT Embedding Model, Meng, __Cha__ et al., 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖사용자의 방문 패턴과 선호도를 고려한 장소 추천 시스템, Kim, Song, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024) 
+
+📖클라우드 환경에서 클라우드 컨트롤러를 활용한 재해 복구 시스템, Lee, Lee, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024) 
+
+📖동적 그래프에서 GPU를 사용한 빈발 서브 그래프 패턴 마이닝, Kim, __Cha__ et al., 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖클라우드 환경에서 재해 복구 시스템을 위한 리소스 정보 최신화 기법, Jeon, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖동적 그래프에서 지속 가능한 서브 그래프 매칭 방법, __Cha__ , Song et al., 한국콘텐츠학회 2024 종합학술대회, (2024) [3]
+
+📖On Premise Operating Environment for an Intelligent Expert Search System, Christopher, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖재해 복구 시스템에서 효과적인 복구를 위한 데이터베이스 설계, Seong, Lee, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖재해 복구 과정에서의 메시지 큐 활용: 클라우드 서비스의 효율적 관리, Kim, Lee, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)
+
+📖효율적인 동적 그래프 처리를 위한 GPU 가속 스케줄링 및 연산 축소 기법, Song, Choi, __Cha<sup>o__ et al., 한국정보과학회 2024 한국컴퓨터종합학술대회(KCC), (2024) [4]
+
+📖저자 활동성과 품질을 고려한 전문가 추천 지수, Jung, Kim, ..., __Cha__, ..., Yoo, 한국정보과학회 2024 한국컴퓨터종합학술대회(KCC), (2024)
 
 * 2023
 
@@ -62,6 +88,13 @@ Excellence Prize in 창의혁신 캡스톤디자인 경진대회 of The Korean S
 📖An Effective Abnormal Behavior Detection Method, Chrostopher, Lee, ..., __Cha__, ..., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
 
 📖Design of a Real-time Data Replicator for DRaaS, __Cha<sup>o__, Kim, Oh et al., ICCC 2023 (KoCon.a), Japan, Shimonoseki, (2023)
+
+* 2022
+
+📖[SaaS 클라우드 환경에서 안전한 데이터 보호를 위한 데이터 복제기 설계](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11112593), Hwang, __Cha__ et al., 한국콘텐츠학회 2022 종합학술대회, (2022) : 411-412
+
+📖[Design of a Communication Structure in Windows Environment for Implementing a Data Replicator](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11196362), __Cha<sup>o__, Choi et al., ICCC 2022 (KoCon.a), Republic of Korea, Jeju, (2022) : 475-476
+
 
 \* __Presentator<sup>o__ 
 #
