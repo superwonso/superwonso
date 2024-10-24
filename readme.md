@@ -41,7 +41,7 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 # Papers
 * 2024
   
-📖안전 약자를 위한 GPS 기반의 이동패턴 분석을 통한 이상 감지, Kim, Seong, ..., __Cha__, ..., 한국콘텐츠학회 2024 종합학술대회, (2024) 
+📖안전 약자를 위한 GPS 기반의 이동패턴 분석을 통한 이상 감지, Kim, Seong, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024) 
 
 📖여행 일정 추천 서비스 설계, Shin, Choi, __Cha__, Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024) 
 
@@ -104,5 +104,3 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 #
 
 # ᨐᵉᵒʷ
-# Hits counting from 2022.10.19 ~ 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuperwonso&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
