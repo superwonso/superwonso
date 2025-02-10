@@ -1,6 +1,8 @@
+<!--
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=superwonso'%20Github&fontSize=65" />
 </p>
+-->
 
 # Tech
 <p align="center">
@@ -16,12 +18,14 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
 </p>
 
+<!--
 # TODO
 <p align="center">
-<!--  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/></a>&nbsp 
--->
+
 </p>
+-->
 
 # Awards
 Silver Award in HCS Group for Practical Problem Solving Festival (Leader of HCS Group for Pratical Problem Solving), 2022
@@ -38,7 +42,12 @@ Excellence Paper Prize in 한국콘텐츠학회 2024 종합학술대회 (Chairma
 
 Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술대회 (Chairman of Korean Institute of Information Scientists and Engineers, KIISE), 2024 [4]
 
-# Papers
+# Journal Papers
+
+📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024)
+
+
+# Conference Papers
 * 2024
   
 📖안전 약자를 위한 GPS 기반의 이동패턴 분석을 통한 이상 감지, Kim, Seong, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)  
@@ -66,8 +75,6 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 📖효율적인 동적 그래프 처리를 위한 GPU 가속 스케줄링 및 연산 축소 기법, Song, Choi, __Cha<sup>o__ et al., 한국정보과학회 2024 한국컴퓨터종합학술대회(KCC), (2024) [4]
 
 📖저자 활동성과 품질을 고려한 전문가 추천 지수, Jung, Kim, ..., __Cha__, ..., Yoo, 한국정보과학회 2024 한국컴퓨터종합학술대회(KCC), (2024)
-
-📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024)
 
 📖An Efficient Durable Subgraph Matching Scheme on Temporal Graphs, __Cha<sup>o__ et al., ICCC 2024 (KoCon.a), Vietnam, Danang, (2024)
 
