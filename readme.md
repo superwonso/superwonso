@@ -44,7 +44,16 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 
 # Journal Papers
 
-📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024)
+📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024) - __KCI__
+  
+📖Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction, Song, Choi, __Cha__ et al., Applied Science, pp. TBD, (2025) - __SCI(E)__
+  
+
+# In progress
+📖시간 그래프에서 효율적인 지속 가능한 서브 그래프 매칭 기법, __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), pp. TBD, (2025) - Extended version of Masters' Dissertation, Invited Paper, __KCI__
+  
+📖Filtering-Based Durable Subgraph Matching on Temporal Graphs(TBC), __Cha__ et al., (TBC, International Conference. ex, EDBT: International Conference on Extending Database Technology), pp. TBC, (2026), __SCI__
+  
 
 
 # Conference Papers
