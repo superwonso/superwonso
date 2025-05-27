@@ -46,7 +46,7 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 
 📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024) - __KCI__
   
-📖Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction, Song, Choi, __Cha__ et al., Applied Science, pp. TBD, (2025) - __SCI(E)__
+📖Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction, Song, Choi, __Cha__ et al., Applied Science 15, no. 6: 3172, (2025) - __SCI(E)__
   
 
 # In progress
