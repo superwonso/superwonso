@@ -52,7 +52,7 @@ Excellence Paper Prize in 한국정보과학회 2024 한국컴퓨터종합학술
 # In progress
 📖시간 그래프에서 효율적인 지속 가능한 서브 그래프 매칭 기법, __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), pp. TBD, (2025) - Extended version of Masters' Dissertation, Invited Paper, __KCI__
   
-📖Filtering-Based Durable Subgraph Matching on Temporal Graphs(TBC), __Cha__ et al., International Conference on Extending Database Technology (EDBT), pp. TBC, (2026), __SCI(E)__ - On pregress
+📖Filtering-Based Durable Subgraph Matching on Temporal Graphs(TBC), __Cha__ et al., In Proceedings of the 29th International Conference on Extending Database Technology (EDBT '26), pp. TBC, (2026), __SCI(E)__ - On pregress
   
 
 
