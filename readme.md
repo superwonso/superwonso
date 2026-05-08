@@ -47,20 +47,25 @@ Excellence Paper Prize in 한국콘텐츠학회 2025 종합학술대회 (Chairma
 Excellence Paper Prize in International Conference on Contents Convergence 2024 (ICCC 2024) (Chairman of Korea Contents Association), 2025
 
 # Journal Papers
+📖Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation, (Lee, Song, __Cha - Co-1st Authors__) et al., IEEE Access, EARLY ACCESS, (2026) - __SCIE__
+
+📖시간 그래프에서 효율적인 지속 가능한 서브 그래프 매칭 기법, __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), (2026) - __KCI__
+
+📖Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction, Song, Choi, __Cha__ et al., Applied Science 15, no. 6: 3172, (2025) - __SCIE__
+
+📖LBSN에서 방문 패턴을 고려한 협업 필터링 기반의 POI 추천, Jeon, ..., __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), (2025) - __KCI__
+
+📖사용자 프로필 생성을 통한 학술 문헌 기반 전문가 탐색 기법, Song, ..., __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), (2025) - __KCI__
 
 📖GPU 가속 스케줄링 및 연산 축소에 기반한 효율적인 동적 그래프 처리, Song, Choi, __Cha__ et al., Journal of KIISE, pp. 1125-1135, (2024) - __KCI__
-  
-📖Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction, Song, Choi, __Cha__ et al., Applied Science 15, no. 6: 3172, (2025) - __SCI(E)__
-  
-📖시간 그래프에서 효율적인 지속 가능한 서브 그래프 매칭 기법, __Cha__ et al., Journal of the Korea Contents Association(Jour. of Kocon.a), pp. TBD, (2025), Invited Paper, __KCI__
 
-# In progress
+# International Conference
   
-📖Filtering-Based Durable Subgraph Matching on Temporal Graphs(TBC), __Cha__ et al., In Proceedings of the 29th International Conference on Extending Database Technology (EDBT '26), pp. TBC, (2026), __SCI(E)__ - On pregress
+📖... Subgraph Matching ..., __Cha__ et al., International Conference, pp. TBC, (2026), __SCI(E)__ - Under Review
   
 
 
-# Conference Papers
+# Domestic Conference Papers
 * 2024
   
 📖안전 약자를 위한 GPS 기반의 이동패턴 분석을 통한 이상 감지, Kim, Seong, ..., __Cha__, ..., Yoo, 한국콘텐츠학회 2024 종합학술대회, (2024)  
